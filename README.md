@@ -46,10 +46,15 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🔧 Projects
+### Engineering
 - [영화 취향 기반 소셜 네트워킹 플랫폼 CINEMATE](https://github.com/Seokxkyu/DE32-final_project-CINEMATE)<br>
   ***2024.11.14 - 2025.01.06***
 - [ML 및 DL model를 이용한 나이 예측 시스템](https://github.com/Seokxkyu/DE32-3rd_project)<br>
   ***24.10.04 - 24.10.08***
+- [Kafka 활용 채팅 프로그램](https://github.com/Seokxkyu/DE32-2rd_project)<br>
+  ***24.08.23 - 24.08.27***
+
+### Data Analysis
 
 ## 👩‍🎓 Education
 ### School
