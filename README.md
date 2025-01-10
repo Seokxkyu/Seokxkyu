@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seokxkyu's%20Github&animation=twinkling&fontSize=60&fontColor=000000&fontAlignY=40)
+
 ## 📜 About me
 
 ## 🛠️ Stacks
