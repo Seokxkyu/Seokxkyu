@@ -44,6 +44,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🔧 Projects
+- [영화 취향 기반 소셜 네트워킹 플랫폼 CINEMATE](https://github.com/DE32-final-team3/DE32-fin-3team-GEEK-CINEMATE)<br>
+  ***2024.11.14 - 2025.01.06***
+- [ML 및 DL model를 이용한 나이 예측 시스템](https://github.com/Seokxkyu/DE32-3rd_project)<br>
+  ***24.10.04 - 24.10.08***
 
 ## 👩‍🎓 Education
 ### School
