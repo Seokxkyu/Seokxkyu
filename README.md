@@ -1,16 +1,14 @@
-## Hi there 👋
+## 📜 About me
 
-## About me
+## 🛠️ Stacks
 
-## Stacks
+## 🔧 Projects
 
-## Projects
+## 👩‍🎓 Education
 
-## Education
+## ✍ Certicification
 
-## Certicification
-
-## Goal
+## 🎯 Goal
 <!--
 **Seokxkyu/Seokxkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
