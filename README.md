@@ -50,6 +50,8 @@
 ### Engineering
 - [영화 취향 기반 소셜 네트워킹 플랫폼 CINEMATE](https://github.com/Seokxkyu/DE32-final_project-CINEMATE)<br>
   ***2024.11.14 - 2025.01.06***
+- [미래에셋증권 AI Data 페스티벌: 미래 금융교육의 혁신 A+SETGO](https://github.com/Seokxkyu/miraeasset)<br>
+  ***2024.06.17 - 2024.10.18***
 - [ML 및 DL model를 이용한 나이 예측 시스템](https://github.com/Seokxkyu/DE32-3rd_project)<br>
   ***24.10.04 - 24.10.08***
 - [Kafka 활용 채팅 프로그램](https://github.com/Seokxkyu/DE32-2rd_project)<br>
