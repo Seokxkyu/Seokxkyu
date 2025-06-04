@@ -16,6 +16,11 @@
 | 2024.07 - 2025.01 | Playdata Data Engineering 트랙 부트캠프 32기 |
 | 2024.03 - 2024.12 | 중앙대학교 데이터분석 학회 DArt-B |
 
+## 👩‍🎓 Career
+|      **기간**     |                 **내용**                |
+|:-----------------:|:---------------------------------------:|
+| 2025.04 -  | 루트엔글로벌자산운용 운용팀 데이터 인턴 |
+
 ## 🛠️ Stacks
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
