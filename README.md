@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seokxkyu's%20Github&animation=twinkling&fontSize=60&fontColor=000000&fontAlignY=40)
 
 ## 📜 About me
-안녕하세요! 데이터 분석가와 데이터 엔지니어를 꿈꾸는 장규석입니다!
+안녕하세요! 금융 도메인에서 데이터 분석가와 데이터 엔지니어를 꿈꾸는 장규석입니다!
 
 ## 👩‍🎓 Education
 ### School
